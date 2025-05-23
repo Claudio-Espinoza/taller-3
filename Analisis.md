@@ -1,0 +1,4 @@
+# Analisis
+
+
+## Problematica del analisis
